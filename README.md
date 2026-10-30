@@ -10,7 +10,7 @@ and Software Developer.
 
 * 🌍  I'm based in Addis Abeba, Ethiopia.
 * ✉️  You can contact me at [abdulmaliksultan15@gmail.com](mailto:abdulmaliksultan15@gmail.com)
-* 🚀  I'm currently working on [ifada islamic organization](http://ifadaislamicorg.vercel.app )
+* 🚀  I'm currently working on [ifada islamic organization](http://test.ifadaislamic.org )
 * 🧠  I'm currently learning TypeScript
 
 <p align="left">
